@@ -50,6 +50,7 @@ body{
     padding: 20px;
     margin-bottom: 20px;
     background: #fff;
+    border: 5px solid red;
 }
 
 .side-content{
